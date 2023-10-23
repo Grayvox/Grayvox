@@ -18,9 +18,9 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 - 🐺 I like wolves
 
 ## Skilled In...
-[![General Web Dev](https://skillicons.dev/icons?i=html,css,js,djs)](https://skillicons.dev)
+[![General Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
-[![Web Dev Frameworks](https://skillicons.dev/icons?i=discordbots)](https://skillicons.dev)
+[![Web Dev Frameworks](https://skillicons.dev/icons?i=nodejs,discordbots)](https://skillicons.dev)
 <br>
 [![Java/Minecraft Dev](https://skillicons.dev/icons?i=java,maven)](https://skillicons.dev)
 <br>
@@ -29,10 +29,10 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 [![IDEs and Editors](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
 ## Currently Learning...
-
+[![Currently Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## GitHub Stats
-![Grayvox's Stats](https://github-readme-stats.vercel.app/api?username=Grayvox&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Grayvox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grayvox&theme=vue-dark&hide_border=true)
-![Grayvox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Grayvox's Stats](https://github-readme-stats.vercel.app/api?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![Grayvox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grayvox&theme=prussian&hide_border=true)
+![Grayvox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
