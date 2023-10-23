@@ -1,7 +1,8 @@
 # Greetings humans
 *I'm Grayvox - or Gray for short.* That's a more of an online identity though.
-I'm a self taught developer from the USA. I mostly dabble in web apps, 
-I also enjoy writing, studying entreprenuership, sitting in voice chat, and making random jokes.
+I'm a self taught developer from the USA. 
+I mostly dabble in web dev, Discord bots, and formally, Minecraft plugins/mods.
+I also enjoy writing, studying entreprenuership, sitting in voice chat, and making random jokes!
 
 ## Main Titles
 
