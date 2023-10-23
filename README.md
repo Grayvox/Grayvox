@@ -24,7 +24,7 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 [![IDEs and Editors](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
 ## Currently Learning...
-[![Currently Learning](https://skillicons.dev/icons?i=vue,firebase)](https://skillicons.dev)
+
 
 ## GitHub Stats
 ![Grayvox's Stats](https://github-readme-stats.vercel.app/api?username=Grayvox&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
