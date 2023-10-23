@@ -18,21 +18,30 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 - 🐺 I like wolves
 
 ## Skilled In...
-[![General Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 <br>
-[![Web Dev Frameworks](https://skillicons.dev/icons?i=nodejs,discordbots)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Discord Bots](https://skillicons.dev/icons?i=discordbots)](https://discord.dev)
 <br>
-[![Java/Minecraft Dev](https://skillicons.dev/icons?i=java,maven)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 <br>
-[![VCs](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 <br>
-[![IDEs and Editors](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 
 ## Currently Learning...
-[![Currently Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 
 ## GitHub Stats
 ![Grayvox's Stats](https://github-readme-stats.vercel.app/api?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![Grayvox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grayvox&theme=prussian&hide_border=true)
 ![Grayvox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+<br>
+<br>
+*Icons by* *[thijs's SkillIcons](https://skillicons.dev)*
 
