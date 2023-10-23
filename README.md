@@ -17,7 +17,7 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 ## Skilled In...
 [![General Web Dev](https://skillicons.dev/icons?i=html,css,js,djs)](https://skillicons.dev)
 <br>
-[![Web Dev Frameworks](https://skillicons.dev/icons?i=discord,discordbots)](https://skillicons.dev)
+[![Web Dev Frameworks](https://skillicons.dev/icons?i=discordbots)](https://skillicons.dev)
 <br>
 [![Java/Minecraft Dev](https://skillicons.dev/icons?i=java,maven)](https://skillicons.dev)
 <br>
