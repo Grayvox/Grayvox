@@ -1,13 +1,15 @@
-# Hey there, I'm Gray.
-![Wolf under a night sky](https://cdn.pixabay.com/photo/2019/10/19/11/35/wolf-4561204_960_720.png)
+# Greetings humans
+*I'm Grayvox - or Gray for short.* That's a more of an online identity though.
+I'm a self taught developer from the USA. I mostly dabble in web apps, 
+I also enjoy writing, studying entreprenuership, sitting in voice chat, and making random jokes.
 
-## About Me
+## Main Titles
 - 🖥️ Full Stack Developer
 - 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/) and [The Odin Project](https://www.theodinproject.com)
 - 🪶 Writer and Author
 - 🐺 I like wolves
 
-## Skills
+## Skilled In...
 [![Foundational Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
 [![Java/Minecraft Dev](https://skillicons.dev/icons?i=java,maven)](https://skillicons.dev)
@@ -16,7 +18,7 @@
 <br>
 [![IDEs and Editors](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
-## Currently Learning
+## Currently Learning...
 [![Currently Learning](https://skillicons.dev/icons?i=vue,firebase)](https://skillicons.dev)
 
 ## GitHub Stats
