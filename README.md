@@ -4,9 +4,13 @@ I'm a self taught developer from the USA. I mostly dabble in web apps,
 I also enjoy writing, studying entreprenuership, sitting in voice chat, and making random jokes.
 
 ## Main Titles
+
 - 🖥️ Full Stack Developer
+
 - 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/) and [The Odin Project](https://www.theodinproject.com)
+
 - 🪶 Writer and Author
+
 - 🐺 I like wolves
 
 ## Skilled In...
