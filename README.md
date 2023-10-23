@@ -6,7 +6,7 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 
 ## Main Titles
 
-- 🖥️ Full Stack Developer
+- 🖥️ Learning Full Stack Development
 
 - 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/) and [The Odin Project](https://www.theodinproject.com)
 
@@ -15,7 +15,9 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 - 🐺 I like wolves
 
 ## Skilled In...
-[![Foundational Web Dev](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![General Web Dev](https://skillicons.dev/icons?i=html,css,js,djs)](https://skillicons.dev)
+<br>
+[![Web Dev Frameworks](https://skillicons.dev/icons?i=discord,discordbots)](https://skillicons.dev)
 <br>
 [![Java/Minecraft Dev](https://skillicons.dev/icons?i=java,maven)](https://skillicons.dev)
 <br>
