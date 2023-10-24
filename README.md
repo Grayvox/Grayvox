@@ -1,4 +1,4 @@
-# Greetings humans
+# 👋 Greetings humans
 *I'm Grayvox - or Gray for short.* That's a more of an online identity though.
 <br>
 I'm a self taught developer from the USA. You'll likely not see much on here right now because I'm still learning!
@@ -7,7 +7,7 @@ I mostly dabble in web dev, Discord bots, and formally, Minecraft plugins/mods.
 <br>
 I also enjoy writing, studying entreprenuership, sitting in voice chat, and making random jokes!
 
-## Main Titles
+## 📌 Main Titles
 
 - 🖥️ Learning Full Stack Development
 
@@ -17,7 +17,7 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 
 - 🐺 I like wolves
 
-## Skilled In...
+## ☑️ Skilled In...
 [![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
@@ -34,10 +34,10 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 
-## Currently Learning...
+## 📝 Currently Learning...
 [![Currently Learning](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 
-## GitHub Stats
+## 🎲 GitHub Stats
 ![Grayvox's Stats](https://github-readme-stats.vercel.app/api?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![Grayvox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grayvox&theme=prussian&hide_border=true)
 ![Grayvox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&layout=compact)
