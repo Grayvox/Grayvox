@@ -43,5 +43,5 @@ I also enjoy writing, studying entreprenuership, sitting in voice chat, and maki
 ![Grayvox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 <br>
 <br>
-*Icons by* *[thijs's SkillIcons](https://skillicons.dev)*
+*Icons by* *[thijs](https://skillicons.dev)*
 
