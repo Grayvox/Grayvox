@@ -15,9 +15,9 @@
 
 - 🐱‍💻 Currently learning [JavaScript](https://javascript.info/)
 
-## ☑️ Skilled In...
+## ☑️ My Technologies
 
-<div id="skilled-in">
+<div id="my-technologies">
   <div id="languages">
     <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
