@@ -13,7 +13,7 @@
 
 - 🪶 Writer of Novels and Tech
 
-- 🐺 I like wolves
+- 🐱‍💻 Currently learning [JavaScript](https://javascript.info/)
 
 ## ☑️ Skilled In...
 
@@ -34,9 +34,6 @@
     <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </div>
 </div>
-
-## 📝 Currently Learning...
-<img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## 🎲 GitHub Stats
 
