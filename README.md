@@ -37,10 +37,13 @@
 [![Currently Learning](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 
 ## 🎲 GitHub Stats
-![Grayvox's Stats](https://github-readme-stats.vercel.app/api?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![Grayvox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grayvox&theme=prussian&hide_border=true)
-![Grayvox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+<p align="center">
+  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=Grayvox&theme=algolia&show_icons=true&hide_border=true&count_private=true">
+  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=algolia&show_icons=true&hide_border=true&layout=compact">
+</p>
 <br>
 <br>
+
 *Icons by* *[thijs](https://github.com/tandpfun/skill-icons)*
 
