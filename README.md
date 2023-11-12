@@ -3,7 +3,7 @@
 <div id="bio">
   <p align="center"><em>I'm Grayvox - or Gray for short.</em> That's a more of an online identity though.</p>
   <p align="center">I'm a self taught developer from the USA. You'll likely not see much on here right now because I'm still learning!</p>
-  <p align="center">I'm interested in all forms of computers; From hardware and software, to the web and cloud infrastructure, to systems programming and game dev and... you get the idea.</p>
+  <p align="center">I'm interested in all forms of computers; From hardware and software, to the web and cloud infrastructure, to systems programming, game modding, game development, and... you get the idea.</p>
   <p align="center">I also enjoy writing, studying entreprenuership, sitting in voice chat, and making random jokes!</p>
 </div>
 
