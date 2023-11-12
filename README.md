@@ -1,6 +1,8 @@
-# 👋 Greetings humans
+![GrayvoxBanner](https://github.com/Grayvox/Grayvox/assets/144566632/12444032-824b-4fe6-b16a-f04a1776e7dd)
+<br><br>
 *I'm Grayvox - or Gray for short.* That's a more of an online identity though.
 <br>
+
 I'm a self taught developer from the USA. You'll likely not see much on here right now because I'm still learning!
 <br>
 I mostly dabble in web dev, Discord bots, and formally, Minecraft plugins/mods.
