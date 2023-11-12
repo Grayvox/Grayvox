@@ -8,11 +8,11 @@
 
 ## 📌 Main Titles
 
-- 🖥️ Learning Full Stack Development
+- 🖥️ Aspiring Full Stack Developer
 
 - 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/) and [The Odin Project](https://www.theodinproject.com)
 
-- 🪶 Writer and Author
+- 🪶 Writer of Novels and Tech
 
 - 🐺 I like wolves
 
