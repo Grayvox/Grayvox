@@ -1,5 +1,4 @@
 ![GrayvoxBanner](https://github.com/Grayvox/Grayvox/assets/144566632/12444032-824b-4fe6-b16a-f04a1776e7dd)
-<br><br>
 
 <p align="center"><em>I'm Grayvox - or Gray for short.</em> That's a more of an online identity though.</p>
 <p align="center">I'm a self taught developer from the USA. You'll likely not see much on here right now because I'm still learning!</p>
@@ -17,33 +16,32 @@
 - 🐺 I like wolves
 
 ## ☑️ Skilled In...
-[![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
-<br>
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Discord Bots](https://skillicons.dev/icons?i=discordbots)](https://discord.dev)
-<br>
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
-<br>
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-<br>
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+
+<div id="skilled-in">
+  <div id="languages">
+    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  </div>
+
+  <div class="front-end-frameworks">
+    
+  </div>
+  
+  <div class="back-end-frameworks">
+    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" />
+    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </div>
+</div>
 
 ## 📝 Currently Learning...
-[![Currently Learning](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
+<img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ## 🎲 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=Grayvox&theme=algolia&show_icons=true&hide_border=true&count_private=true">
   <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grayvox&theme=algolia&show_icons=true&hide_border=true&layout=compact">
-</p>
-<br>
-<br>
-
-*Icons by* *[thijs](https://github.com/tandpfun/skill-icons)*
+</div>
 
