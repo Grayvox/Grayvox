@@ -21,10 +21,18 @@
 
 <div id="my-technologies">
   <div id="languages">
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+      <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+      <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    </a>
+    <a href="https://javascript.info/" target="_blank">
+      <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    </a>
   </div>
 
   <div class="front-end-frameworks">
@@ -32,8 +40,12 @@
   </div>
   
   <div class="back-end-frameworks">
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <a href="https://www.discord.dev" target="_blank">
+      <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" />
+    </a>  
+    <a href="https://www.nodejs.org" target="_blank">
+      <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </a>
   </div>
 </div>
 
