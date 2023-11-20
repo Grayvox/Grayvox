@@ -19,22 +19,10 @@
 
 ## ☑️ My Technologies
 
-<div id="my-technologies">
-  <div id="languages">
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </div>
-
-  <div class="front-end-frameworks">
-    
-  </div>
-  
-  <div class="back-end-frameworks">
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" />
-    <img height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </div>
+<div id="my-technologies" align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,discord,nodejs,git,github,vscode,idea,wordpress" />
+  </a>
 </div>
 
 ## 🎲 GitHub Stats
