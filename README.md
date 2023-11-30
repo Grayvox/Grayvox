@@ -21,7 +21,7 @@
 
 <div id="my-technologies" align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,discord,nodejs,git,github,vscode,idea,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,discord,nodejs,java,git,github,vscode,idea,wordpress" />
   </a>
 </div>
 
