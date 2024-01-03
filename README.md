@@ -9,9 +9,9 @@
 
 ## 📌 Main Titles
 
-- 🖥️ Aspiring Full Stack Developer
+- 🖥️ Aspiring (and Self Taught) Full Stack Developer
 
-- 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/) and [The Odin Project](https://www.theodinproject.com)
+- 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.theodinproject.com) and my own learning path :)
 
 - 🪶 Writer of Novels and Tech
 
