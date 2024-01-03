@@ -9,13 +9,13 @@
 
 ## 📌 Main Titles
 
-- 🖥️ Aspiring (and Self Taught) Full Stack Developer
+- 🖥️ Aspiring (and Self Taught) Developer of the Web, Games, and Software.
 
 - 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.theodinproject.com) and my own learning path :)
 
-- 🪶 Writer of Novels and Tech
+- 🪶 Writer at Heart
 
-- 🐱‍💻 Currently learning [JavaScript](https://javascript.info/)
+- 🐱‍💻 Currently learning [Aseprite](https://www.aseprite.org/) and [GameMaker](https://gamemaker.io/)
 
 ## ☑️ My Technologies
 
