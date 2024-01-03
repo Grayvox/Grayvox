@@ -20,9 +20,30 @@
 ## ☑️ My Technologies
 
 <div id="my-technologies" align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,discord,nodejs,jest,java,git,github,vscode,idea,wordpress" />
-  </a>
+  <div id="languages">
+    <img height="45" width="45" src="https://cdn.simpleicons.org/html5" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/css3" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/javascript" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/nodedotjs" />
+    <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" />
+  </div>
+  <div id="libraries-and-frameworks">
+    <img height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/jest" />
+  </div>
+  <div id="game-dev">
+    
+  </div>
+  <div id="editors-and-tools">
+    <img height="45" width="45" src="https://cdn.simpleicons.org/git" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/github/white" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/visualstudiocode" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/intellijidea/white" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/wordpress" />
+  </div>
+  <div id="cloud-and-hosting">
+    
+  </div>
 </div>
 
 ## 🎲 GitHub Stats
