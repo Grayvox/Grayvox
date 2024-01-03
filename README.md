@@ -30,6 +30,7 @@
   <div id="libraries-and-frameworks">
     <img height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" />
     <img height="45" width="45" src="https://cdn.simpleicons.org/jest" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/spigotmc" />
   </div>
   <div id="game-dev">
     
