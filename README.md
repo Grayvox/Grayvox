@@ -13,7 +13,7 @@
 
 - 👨‍🎓 Student @ [freeCodeCamp](https://www.freecodecamp.org/), [The Odin Project](https://www.theodinproject.com) and my own learning path :)
 
-- 🪶 Writer at Heart
+- 🪶 Writer and Storyteller
 
 - 🐱‍💻 Currently learning [Aseprite](https://www.aseprite.org/) and [GameMaker](https://gamemaker.io/)
 
