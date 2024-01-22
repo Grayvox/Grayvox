@@ -15,7 +15,7 @@
 
 - 🪶 Writer and Storyteller
 
-- 🐱‍💻 Currently learning [Aseprite](https://www.aseprite.org/) and [GameMaker](https://gamemaker.io/)
+- 🐱‍💻 Currently learning [Godot Engine](https://godotengine.org/)
 
 ## ☑️ My Technologies
 
