@@ -7,7 +7,7 @@
   <p align="center">I also enjoy writing, studying entreprenuership, sitting in voice chat, and making random jokes!</p>
 </div>
 
-## 📌 Main Titles
+## 📌 Info
 
 - 🖥️ Aspiring (and Self Taught) Developer of the Web, Games, and Software.
 
