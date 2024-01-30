@@ -36,7 +36,8 @@
     
   </div>
   <div id="game-dev">
-    
+    <img height="45" width="45" src="https://cdn.simpleicons.org/aseprite/white" />
+    <img height="45" width="45" src="https://cdn.simpleicons.org/godotengine" />
   </div>
   <div id="editors-and-tools">
     <img height="45" width="45" src="https://cdn.simpleicons.org/git" />
