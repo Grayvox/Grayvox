@@ -15,7 +15,7 @@
 
 - 🪶 Writer and Storyteller
 
-- 🐱‍💻 Currently learning [Godot Engine](https://godotengine.org/)
+- 🐱‍💻 Currently learning [Ruby](https://ruby-lang.org)
 
 ## ☑️ My Technologies
 
