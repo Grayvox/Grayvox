@@ -3,7 +3,7 @@
 
 *I'm Grayvox - or Gray for short. That's a more of an online identity though.*
 
-- 🇺🇸  Self taught developer from the USA.
+- 🇺🇸 Self taught developer from the USA.
 - 🚵 Started with Minecraft plugins, and have since moved to Web Development, Game Development, and Software Engineering
 - ✋ Interested in basically everything computer science so... always learning something random!
 
