@@ -17,7 +17,7 @@
 
 - 🏗️ Currently working on... ***Coming Soon!***
 
-## ☑️ My Technologies
+## ☑️ Skillset
 
 - 🌐 HTML, CSS, JavaScript, Java...
 - ⚙️ Node.js, Discord.js, Jest, Spigot...
