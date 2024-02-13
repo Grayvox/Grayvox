@@ -24,8 +24,6 @@
 - 🕹️ Aseprite, Godot Engine...
 - 🔨 Git, VS Code, IntelliJ, Wordpress...
 
-</div>
-
 ## 🎲 GitHub Stats
 
 <div align="center">
