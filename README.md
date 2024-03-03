@@ -1,6 +1,5 @@
 ![GrayvoxBanner](https://github.com/Grayvox/Grayvox/assets/144566632/12444032-824b-4fe6-b16a-f04a1776e7dd)
 
-
 *I'm Grayvox - or Gray for short. That's a more of an online identity though.*
 
 - 🇺🇸 Self taught developer from the USA.
@@ -19,36 +18,13 @@
 
 ## ☑️ Skillset
 
-[//]: # ( LANGUAGES )
+[![ Languages ](https://skillicons.dev/icons?i=html,css,js,ruby,java)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![ Frameworks and Libaries ](https://skillicons.dev/icons?i=nodejs,discordjs,jest)](https://skillicons.dev)
 
-[//]: # ( FRAMEWORKS )
+[![ Game Dev ](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-[//]: # ( GAME DEV )
-
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
-[//]: # ( HOSTING MACHINES )
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-[//]: # ( APPS AND SOFTWARE )
-
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+[![ Tools ](https://skillicons.dev/icons?i=git,raspberrypi,vscode,idea,wordpress)](https://skillicons.dev)
 
 ## 🎲 GitHub Stats
 
