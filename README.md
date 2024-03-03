@@ -6,7 +6,7 @@
 - 🔨 Maker of internet stuff, games, and software. I'm not perfect and you shouldn't be either.
 - 🤷 Will eventually have a career title to put here... hopefully
 
-## 😏 Status
+## 😏 What The Heck Am I Doing
 
 - 🐱‍💻 Currently learning... [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 
