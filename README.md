@@ -14,13 +14,21 @@
 
 ## 🧐 Skillset
 
-[![ Languages ](https://skillicons.dev/icons?i=html,css,js,ruby,java)](https://skillicons.dev)
+<div id="languages" align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ruby,java" />
+</div>
 
-[![ Frameworks and Libaries ](https://skillicons.dev/icons?i=nodejs,discordjs,jest)](https://skillicons.dev)
+<div id="frameworks-libraries" align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,discordjs,jest" />
+</div>
 
-[![ Game Dev ](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+<div id="tools" align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu,raspberrypi,git,vscode,idea,wordpress" />
+</div>
 
-[![ Tools ](https://skillicons.dev/icons?i=git,raspberrypi,vscode,idea,wordpress)](https://skillicons.dev)
+<div id="game-dev" align="center">
+  <img src="https://skillicons.dev/icons?i=godot" />
+</div>
 
 ## 😎 Stats
 
