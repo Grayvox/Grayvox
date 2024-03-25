@@ -2,7 +2,7 @@
 
 **I'm Grayvox - or Gray for short. I make computer stuff.**
 
-- 🤔 Inventor of the JOAT terminology (though it's free for anyone to use)
+- 🤔 "JOAT" Terminology Enthusiast
 - 🔨 Maker of internet stuff, games, and software. I'm not perfect and you shouldn't be either.
 - 🤷 Will eventually have a career title to put here... hopefully
 
