@@ -1,4 +1,4 @@
-![GrayvoxBanner](https://github.com/Grayvox/Grayvox/assets/144566632/12444032-824b-4fe6-b16a-f04a1776e7dd)
+![GrayvoxPure](https://github.com/Grayvox/Grayvox/assets/144566632/924716c3-6b82-4313-87e7-a84b8c51ddaa)
 
 **I'm Grayvox - or Gray for short. I make computer stuff.**
 
