@@ -23,7 +23,7 @@
 </div>
 
 <div id="tools" align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,vscode,idea,wordpress,ubuntu,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,idea,wordpress,ubuntu,raspberrypi" />
 </div>
 
 <div id="game-dev" align="center">
