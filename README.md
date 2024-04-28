@@ -19,7 +19,7 @@
 </div>
 
 <div id="frameworks-libraries" align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,discordjs,jest" />
+  <img src="https://skillicons.dev/icons?i=astro,nodejs,discordjs,jest" />
 </div>
 
 <div id="tools" align="center">
