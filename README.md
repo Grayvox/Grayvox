@@ -2,6 +2,8 @@
 
 *That's a username, of course. You can call me Gray for short.*
 
+---
+
 ### A Little About Me:
 - 🔨 Maker of Software, Games, and Internet Thingys
 - 🎥 Content Creator and User of YouTube
