@@ -6,26 +6,15 @@
 
 ### A Little About Me:
 - 🔨 Maker of Software, Games, and Internet Thingys
-- 🎥 Content Creator and User of YouTube
-- 🤔 "JOAT" Terminology Enthusiast
+- 🎥 Aspiring Content Creator and User of YouTube
+- 😏 "JOAT" Terminology Enthusiast
 
 ---
 
-<div id="languages" align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ruby,java" />
-</div>
-
-<div id="frameworks-libraries" align="center">
-  <img src="https://skillicons.dev/icons?i=astro,nodejs,jest" />
-</div>
-
-<div id="tools" align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,idea,ubuntu,raspberrypi" />
-</div>
-
-<div id="game-dev" align="center">
-  <img src="https://skillicons.dev/icons?i=godot" />
-</div>
+### What I'm Attempting
+- 🤔 Currently learning full stack engineering with The Odin Project
+- 💡 Interested in Elixir and Phoenix (possibly Vue and Alpine too)
+- 🕹️ I build games with Aseprite and Godot Engine
 
 ---
 
