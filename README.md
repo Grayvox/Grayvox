@@ -4,7 +4,7 @@
 
 ---
 
-### A Little About Me:
+### A Little About Me
 - 🔨 Maker of Software, Games, and Internet Thingys
 - 🎥 Aspiring Content Creator and User of YouTube
 - 😏 "JOAT" Terminology Enthusiast
