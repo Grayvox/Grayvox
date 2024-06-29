@@ -14,7 +14,7 @@
 ### What I'm Attempting
 - 🤔 Currently learning full stack engineering with The Odin Project
 - 💡 Interested in Elixir and Phoenix (possibly Vue and Alpine too)
-- 🕹️ I build games with Aseprite and Godot Engine
+- 🐶 Building a game about a dog
 
 ---
 
