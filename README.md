@@ -2,19 +2,11 @@
 
 *That's a username, of course. You can call me Gray for short.*
 
----
-
-### A Little About Me
-- 🔨 Maker of Software, Games, and Internet Thingys
-- 🎥 Aspiring Content Creator and User of YouTube
-- 😏 "JOAT" Terminology Enthusiast
-
----
-
-### What I'm Attempting
-- 🤔 Currently learning full stack engineering with The Odin Project
-- 💡 Interested in Elixir and Phoenix (possibly Vue and Alpine too)
-- 🐶 Building a game about a dog
+Web dev by day, game dev by night - using whatever tools my brain gets ahold of at the time. 
+Currently, that's mainly:
+- Ruby on Rails
+- Tailwind CSS
+- Godot Engine
 
 ---
 
