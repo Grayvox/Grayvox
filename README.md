@@ -5,8 +5,10 @@
 Web dev by day, game dev by night - using whatever tools my brain gets ahold of at the time. 
 Currently, that's mainly:
 - Ruby on Rails
+- Astro
 - Tailwind CSS
 - Godot Engine
+- GB Studio
 
 ---
 
