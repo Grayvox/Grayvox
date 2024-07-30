@@ -2,7 +2,7 @@
 
 *That's a username, of course. You can call me Gray for short.*
 
-Web dev by day, game dev by night - using whatever tools my brain gets ahold of at the time. 
+Jack of all trades (JOAT), master of none. I do game modding, game breaking, game development, web engineering, sysadmin, and such - using whatever tools my brain gets ahold of at the time. 
 Currently, that's mainly:
 - Ruby on Rails
 - Astro
