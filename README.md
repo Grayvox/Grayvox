@@ -2,13 +2,7 @@
 
 *That's a username, of course. You can call me Gray for short.*
 
-Jack of all trades (JOAT), master of none. I do game modding, game breaking, game development, web engineering, sysadmin, and such - using whatever tools my brain gets ahold of at the time. 
-Currently, that's mainly:
-- Ruby on Rails
-- Astro
-- Tailwind CSS
-- Godot Engine
-- GB Studio
+Jack of all trades (JOAT), master of none. Self certified Lore-ologist. I do game modding, game breaking, game development, web engineering, sysadmin, and such - using whatever tools my brain gets ahold of at the time.
 
 ---
 
