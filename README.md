@@ -3,9 +3,9 @@
 Just your average principal senior-level full stack software engineering manager. Totally qualified and like making random stuff on the internet for fun.
 
 **Current Work**
-- UI/UX Engineer @ [stable.dev](https://stable.dev) since 2024
 - Owner @ [HytaLab](https://github.com/HytaLab) && [Crusades and Cryptids](https://github.com/CrusadesAndCryptids) since 2025
 - Creative Guy @ [HyClans](https://hyclans.com) since 2024
+- UI/UX Engineer @ [stable.dev](https://stable.dev) since 2024
 
 ---
 
