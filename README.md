@@ -2,7 +2,11 @@
 
 Just your average principal senior-level full stack software engineering manager. Totally qualified and like making random stuff on the internet for fun.
 
-My Linux setup is better than yours btw.
+**Professional Work**
+UI/UX Engineer @ [stable.dev](https://stable.dev) since 2024
+Owner @ [HytaLab](https://github.com/HytaLab) && [Crusades and Cryptids](https://github.com/CrusadesAndCryptids) since 2025
+Creative Guy @ [HyClans](https://hyclans.com) since 2025
+Streaming my shenanigans on [Twitch](https://twitch.tv/grayvoxdev) since 2024
 
 ---
 
