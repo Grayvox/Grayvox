@@ -2,7 +2,7 @@
 
 Jack of all trades developer and programmer. I build software and games worth zero attention.
 
-**NOTE:** I am transition to [Codeberg](https://codeberg.org/Grayvox) as of now, but this account is still active for collaboration and projects that require GitHub.
+**NOTE:** I am transitioning to [Codeberg](https://codeberg.org/Grayvox) as of now, but this account is still active for collaboration and projects that require GitHub.
 
 ---
 
