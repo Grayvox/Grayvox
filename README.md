@@ -1,4 +1,4 @@
-<img width="150" align="left" alt="GrayvoxVisor" src="https://github.com/user-attachments/assets/dbe59f5a-7e65-497a-aec9-9aac093d4191" /> <h3>👋 Hello</h3> <p>I'm a software engineer and indie game developer from the USA. I primarily work on game mods and servers for **Minecraft**, retro game development, and backend systems. I have a passion for open source, offline software, and experimenting with low level systems. I also enjoy writing... just a bit.</p>
+<img width="150" align="left" alt="GrayvoxVisor" src="https://github.com/user-attachments/assets/dbe59f5a-7e65-497a-aec9-9aac093d4191" /> <h3>👋 Hello</h3> <p>I go by Gray online. I'm a software engineer and indie game developer from the USA. I primarily work on game mods and servers for **Minecraft**, retro game development, and backend systems. I have a passion for open source, offline software, and experimenting with low level systems. I also enjoy writing... just a bit.</p>
 
 <br>
 
