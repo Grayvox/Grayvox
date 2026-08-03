@@ -12,20 +12,6 @@
 
 ---
 
-### 🛠️ Work
-- **Modrinth**\
-*Jul 2026 - Present*\
-Content Moderator\
-\
-*May 2026 - Jul 2026*\
-Discord Moderator
-
-- **MC: Consequences Edition**\
-*Dec 2024 - Present*\
-Chat Moderator (and one of the originals from the server's founding)
-
----
-
 ### 📬 Contact Me
 - For general communications, I prefer [Discord](https://discord.com/users/1263900642741583923).
 - For professional inquiries, I prefer emails sent to `gray at grayvox dot com`.
